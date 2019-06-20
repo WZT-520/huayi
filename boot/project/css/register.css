@@ -1,0 +1,149 @@
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;}
+.header{
+    width: 100%;
+    text-align: left;
+    line-height: 79px;
+    background: url(../../img/index/header_bg.jpg) repeat-x;
+}
+div {
+    display: block;
+}
+
+body {
+    text-align: center;
+    font-size: 12px;
+    color: #000;
+    height: 100%
+}
+.w950 {
+    width: 950px;
+    margin: 0 auto;
+    height: 64px;
+    margin-top: 15px;
+}
+.header_logo_l {
+    width: 429px;
+    height: 47px;
+}
+.registerMain{
+    width: 940px;
+    margin: 0px auto 0 auto;
+    border: 1px solid #E4E4E4;
+    
+}
+.registerMain1{
+    border: 2px solid #EFEFEF;
+    
+}
+.registerMainTitle{
+    height: 50px;
+    width: 935px;
+    background-image: url(../../img/index/register_title.png);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-color: #F8F8F8;
+}
+.registerWarn{
+	background-image: url(../../img/index/register_warn_bg.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 145px;
+	width: 918px;
+	margin:17px 0 0 14px;
+	padding:23px 50px 0 100px;
+	color:#7B7B7B;
+	font-size:14px;
+	line-height:32px;
+}
+.f14blue {
+    font-size: 14px;
+    color: #124AA2;
+}
+.registerFillInfo {
+    width: 820px;
+    margin: 17px auto 0 auto;
+}
+.registerFillInfo h1 {
+    width: 764px;
+    font-size: 14px;
+    font-weight: normal;
+    height: 32px;
+    border-bottom: #E4E4E4 1px solid;
+}
+.f12red {
+    font-size: 12px;
+    color: #ff0000;
+}
+.login_page{
+    width: 800px;
+    margin: 0 auto;
+
+}
+.login_page>.field{
+    margin: 27px 0;
+    width: 820px;
+    list-style-type:none;
+    padding-bottom: 10px;
+    padding-left: 0px;
+}
+.login_page>.field li{
+    height: 33px;
+        margin-bottom: 16px;
+}
+.field li .wmax {
+    width: 135px;
+    display: inline-block;
+    text-align: right;
+    float: left;
+    height: 22px;
+    line-height: 22px;
+    color: #191919;
+    font-size: 13px;}
+.field li .wmax span {
+        color: #FE0000;
+        margin-right: 2px;
+    }
+.w225{
+    width: 237px;
+    height: 23px;
+    border: #E2E2E2 solid 1px;
+    font-size:9pt;
+    margin-left: 5px;
+}
+.registerInput{
+    width: 237px;
+    height: 23px;
+    border: 1px solid #E2E2E2;
+    line-height: 23px;
+    text-indent: 5px;
+    margin-left: 5px;
+}
+.a9 {
+    color: #999;
+    line-height: 150%;
+}
+.w170{
+    width: 170px;
+    height: 23px;
+    border: #E2E2E2 solid 1px;
+}
+select {
+    color: #7b7b7b;
+}
+.w950{
+    width: 950px;
+    margin: 0 auto;
+    height: 60px;
+    margin-top: 15px;
+}
+.w950 p a{
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: 15px;
+    color: #707070;
+    margin: 0 8px;
+    text-decoration: none;
+}
+
